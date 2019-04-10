@@ -1,0 +1,12 @@
+{
+    "name": "krionari/twig",
+    "authors": [
+        {
+            "name": "Pascal Encinas",
+            "email": "krionari@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
